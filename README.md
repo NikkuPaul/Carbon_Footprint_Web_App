@@ -6,7 +6,7 @@ This is a Flask-based web application that allows users to calculate their carbo
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/Carbon_Footprint_Web_App.git
+   git clone https:/NikkuPaul/github.com/Carbon_Footprint_Web_App.git
    cd Carbon_Footprint_Web_App
 
 2. Install Dependencies
